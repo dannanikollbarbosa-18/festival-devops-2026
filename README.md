@@ -1,0 +1,1 @@
+![Estado del Workflow](https://github.com/dannanikollbarbosa-18/festival-devops-2026/actions/workflows/ci.yml/badge.svg)
